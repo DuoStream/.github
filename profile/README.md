@@ -21,9 +21,9 @@ The following benefits can be unlocked by logging in with a Patreon account that
 * Allows you to run as many Duo instances as your hardware can handle (in addition to the host's physical session)
 * Unlocks refresh rates up to 500Hz (limited only by what your hardware encoder can handle)
 * Unlocks HDR support (on Windows 11 23H2 or newer)
-* Unlocks Sandbox support (on Windows 11 23H2 or newer)
+* Unlocks Sandbox support (**temporarily unavailable**)
 
-## Download Duo
+## Download Duo (Latest: v1.5.6)
 * [From GitHub](https://github.com/DuoStream/Duo/releases/latest)
 * [From Patreon](https://www.patreon.com/posts/duo-1-pc-users-89568993)
 
